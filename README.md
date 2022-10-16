@@ -1,7 +1,7 @@
 ## Whattup you guys, it's yaboi Kapsyloffer
 **I once almost died and now it is my entire identity haha**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kapsyloffer&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kapsyloffer&layout=compact&theme=tokyonight)
 
 I have written buncha C# apparently but Idk why it's that high given how much Java and python I've written.
 
