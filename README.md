@@ -10,9 +10,9 @@ Also tryna learn Rust, but so far I suck bumbum at it. :/
 ---
 TODO:
 - [x] Fuck bitches
-- [ ] Get riches
+- [x] Get riches
 
-(where csn)
+I got CSN! :D
 
 ---
 
