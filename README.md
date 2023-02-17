@@ -1,21 +1,6 @@
-## Whattup you guys, it's yaboi Kapsyloffer
-**I once almost died and now it is my entire identity haha**
+## Welcome to my Github profile!
+### I will try to push more exciting things here don't worry.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kapsyloffer&layout=compact&theme=tokyonight)
 
-I'm trying to contribute more to Open Source projects, but rn I gotta crunch exams hehe. :shipit:
-
-Also tryna learn Rust, but so far I suck bumbum at it. :/
-
----
-TODO:
-- [x] Fuck bitches
-- [x] Get riches
-
-I got CSN! :D
-
----
-
-Got discord if you wanna reach me.
-
-### Kapsyloffer#6969
+Rust is pretty cool ngl.
