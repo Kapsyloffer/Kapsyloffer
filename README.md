@@ -1,7 +1,7 @@
 ## Welcome to my Github profile!
 ### I will try to push more exciting things here don't worry.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kapsyloffer&layout=compact&theme=tokyonight)
+<a href="#" align="center"><img align="center" name="i stol these form theMacckabu" src="https://readme-card-themackabu.vercel.app/api/top-langs/?username=Kapsyloffer&hide=html&langs_count=10&v=174&theme=dark&langs_count=10&layout=compact&hide_border=true&bg_color=0D1117" height="220px" alt="Most used languages"></a>
 
 Rust is pretty cool ngl.
 
